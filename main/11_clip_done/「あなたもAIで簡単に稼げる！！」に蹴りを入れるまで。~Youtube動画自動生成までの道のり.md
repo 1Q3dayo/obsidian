@@ -8,6 +8,7 @@ created: 2025-11-17
 description:
 tags:
   - "clippings"
+  - raw
 ---
 [![](https://storage.googleapis.com/zenn-user-upload/avatar/c307ff02b6.jpeg) クロステックマネジメント（京都芸術大学）](https://zenn.dev/p/xtm_blog) [Publicationへの投稿](https://zenn.dev/faq#what-is-publication)
 

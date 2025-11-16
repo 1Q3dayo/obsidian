@@ -8,6 +8,7 @@ created: 2025-11-17
 description: "- gpt-5/gpt-5-codex（やClaude Sonnet 4.5）のようにモデルが進化することでできることが変わる- それによって新たな時代の開発ワークフローが爆誕する！- 効率的なバイブコーディングフローとして「放置プレイ」が重要- 効率的な意思疎通として「軽量な動くモック」が…"
 tags:
   - "clippings"
+  - raw
 ---
 ## More Decks by erukiti
 

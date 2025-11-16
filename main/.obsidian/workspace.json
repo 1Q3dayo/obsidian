@@ -11,14 +11,10 @@
             "id": "944fb9becb120ade",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり"
+              "title": "新規タブ"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のりへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -172,32 +167,32 @@
   },
   "active": "944fb9becb120ade",
   "lastOpenFiles": [
-    "README.md",
-    "10_clip/Codex CLI を初めて使う人向けの実践ガイド.md",
-    "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
-    "10_clip/Codex時代の新たなバイブコーディングワークフロー after Codex workflow.md",
-    "10_clip/AWSのSLAについて覗いてみよう.md",
-    "20_ai_summary/20251117_PixelFontUpdates.md",
-    "20_ai_summary/20251117_NotebookLMGuide.md",
-    "20_ai_summary/20251117_CursorRulesDigest.md",
-    "20_ai_summary/20251117_ContextOpsPatterns.md",
-    "20_ai_summary/20250920_ServerlessWebGuide.md",
-    "20_ai_summary/20231030_PythonUnderscore.md",
-    "20_ai_summary/20250906_PythonAIEssentials.md",
-    "20_ai_summary/20250922_LoRAEvolutionNotes.md",
-    "20_ai_summary/20250813_LLMContextFocus.md",
-    "20_ai_summary/20251114_CodeWiki自動化.md",
-    "20_ai_summary/20250615_Clip保存設定.md",
-    "20_ai_summary/20250909_AWSNameResolveTips.md",
-    "20_ai_summary/20250922_AIWorkflowCheats.md",
-    "11_clip_done/「LLMはコンテキストがすべて」かもしれない.md",
-    "10_clip/2025年版 エンジニアのためのAI連携チートシート + カスタムスクリプト集.md",
-    "20_ai_summary/LLMContextFocus.md",
-    "11_clip_done/x0y0pxFreeFont.md",
-    "20_ai_summary/PixelFontUpdates.md",
-    "11_clip_done/pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる.md",
-    "20_ai_summary/PythonUnderscore.md",
-    "11_clip_done/kinopeeecursorrules.md",
+    "10_clip/20251020時点で最良のAIコーディングプロセス.md",
+    "11_clip_done/テスト可能な dotfiles 管理：chezmoi で実現する開発環境構築.md",
+    "11_clip_done/アップデート Service Quotas にクォータが最大使用率に近づいた時に通知を送信できる「自動管理設定」機能が追加されました  DevelopersIO.md",
+    "11_clip_done/「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる.md",
+    "11_clip_done/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
+    "11_clip_done/Markdownをプログラミング言語として用いる仕様駆動開発の可能性 ——GitHub Blogより.md",
+    "11_clip_done/Kubernetes本番運用で必ず実装すべきセキュリティ設定10選.md",
+    "11_clip_done/Codex時代の新たなバイブコーディングワークフロー after Codex workflow.md",
+    "11_clip_done/Codex CLI を初めて使う人向けの実践ガイド.md",
+    "11_clip_done/AWSのSLAについて覗いてみよう.md",
+    "11_clip_done/95%以上をLLMが実装。『みらいまる見え政治資金』を45日で完成させた、AIネイティブな開発手法についてご紹介｜Jun Ito.md",
+    "11_clip_done/20251020時点で最良のAIコーディングプロセス.md",
+    "20_ai_summary/20251005_dotfiles品質設計.md",
+    "20_ai_summary/20251011_Quota自動監視.md",
+    "20_ai_summary/20251005_AWSゆっくり生成.md",
+    "20_ai_summary/20250930_AI自動動画収益.md",
+    "20_ai_summary/20251002_Markdown仕様駆動.md",
+    "20_ai_summary/20251016_K8s安全設定十選.md",
+    "20_ai_summary/20250930_放置型バイブ術.md",
+    "20_ai_summary/20250930_Codex入門実践帳.md",
+    "20_ai_summary/20250928_AWS_SLA徹底理解.md",
+    "20_ai_summary/20251005_AIネイティブ開発術.md",
+    "20_ai_summary/20251020_AIレビュー駆動手順.md",
+    "10_clip/Kubernetes本番運用で必ず実装すべきセキュリティ設定10選.md",
+    "10_clip/アップデート Service Quotas にクォータが最大使用率に近づいた時に通知を送信できる「自動管理設定」機能が追加されました  DevelopersIO.md",
+    "10_clip/「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる.md",
     "無題のファイル.base",
     "top.base",
     "無題のファイル 1.base",
