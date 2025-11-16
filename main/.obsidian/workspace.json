@@ -11,10 +11,14 @@
             "id": "944fb9becb120ade",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のりへのバックリンク"
             }
           },
           {
@@ -167,6 +172,24 @@
   },
   "active": "944fb9becb120ade",
   "lastOpenFiles": [
+    "README.md",
+    "10_clip/Codex CLI を初めて使う人向けの実践ガイド.md",
+    "10_clip/「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり.md",
+    "10_clip/Codex時代の新たなバイブコーディングワークフロー after Codex workflow.md",
+    "10_clip/AWSのSLAについて覗いてみよう.md",
+    "20_ai_summary/20251117_PixelFontUpdates.md",
+    "20_ai_summary/20251117_NotebookLMGuide.md",
+    "20_ai_summary/20251117_CursorRulesDigest.md",
+    "20_ai_summary/20251117_ContextOpsPatterns.md",
+    "20_ai_summary/20250920_ServerlessWebGuide.md",
+    "20_ai_summary/20231030_PythonUnderscore.md",
+    "20_ai_summary/20250906_PythonAIEssentials.md",
+    "20_ai_summary/20250922_LoRAEvolutionNotes.md",
+    "20_ai_summary/20250813_LLMContextFocus.md",
+    "20_ai_summary/20251114_CodeWiki自動化.md",
+    "20_ai_summary/20250615_Clip保存設定.md",
+    "20_ai_summary/20250909_AWSNameResolveTips.md",
+    "20_ai_summary/20250922_AIWorkflowCheats.md",
     "11_clip_done/「LLMはコンテキストがすべて」かもしれない.md",
     "10_clip/2025年版 エンジニアのためのAI連携チートシート + カスタムスクリプト集.md",
     "20_ai_summary/LLMContextFocus.md",
@@ -175,24 +198,6 @@
     "11_clip_done/pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる.md",
     "20_ai_summary/PythonUnderscore.md",
     "11_clip_done/kinopeeecursorrules.md",
-    "20_ai_summary/CursorRulesDigest.md",
-    "11_clip_done/LoRAの進化：基礎から最新のLoRA-Proまで.md",
-    "20_ai_summary/LoRAEvolutionNotes.md",
-    "11_clip_done/Google NotebookLM  Note Taking & Research Assistant Powered by AI.md",
-    "20_ai_summary/NotebookLMGuide.md",
-    "11_clip_done/Context Engineering.md",
-    "20_ai_summary/ContextOpsPatterns.md",
-    "11_clip_done/AWSを利用する上で知っておきたい名前解決のはなし（10分版）.md",
-    "20_ai_summary/AWSNameResolveTips.md",
-    "11_clip_done/AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）.md",
-    "20_ai_summary/PythonAIEssentials.md",
-    "11_clip_done/2025年版 サーバーレス Web アプリケーションの作り方.md",
-    "20_ai_summary/ServerlessWebGuide.md",
-    "11_clip_done/2025年版 エンジニアのためのAI連携チートシート + カスタムスクリプト集.md",
-    "20_ai_summary/AIWorkflowCheats.md",
-    "10_clip/kinopeeecursorrules.md",
-    "10_clip/AWSを利用する上で知っておきたい名前解決のはなし（10分版）.md",
-    "10_clip/AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）.md",
     "無題のファイル.base",
     "top.base",
     "無題のファイル 1.base",
