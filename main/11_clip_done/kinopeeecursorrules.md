@@ -1,0 +1,81 @@
+---
+title: "kinopeee/cursorrules"
+source: "https://github.com/kinopeee/cursorrules"
+author:
+  - "[[kinopeee]]"
+published:
+created: 2025-11-17
+description: "Contribute to kinopeee/cursorrules development by creating an account on GitHub."
+tags:
+  - "clippings"
+  - "raw"
+---
+[Skip to content](https://github.com/kinopeee/#start-of-content)
+
+**[cursorrules](https://github.com/kinopeee/cursorrules)** Public
+
+- [Fork 55 Fork your own copy of kinopeee/cursorrules](https://github.com/kinopeee/cursorrules/fork)
+
+### License
+
+[MIT license](https://github.com/kinopeee/cursorrules/blob/main/LICENSE)
+
+[Open in github.dev](https://github.dev/) [Open in a new github.dev tab](https://github.dev/) [Open in codespace](https://github.com/codespaces/new/kinopeee/cursorrules?resume=1)
+
+## Add file
+
+## cursorrules 「v5」
+
+[English](https://github.com/kinopeee/cursorrules/blob/main/README.en.md) | 日本語
+
+このリポジトリは、Cursor用のカスタムインストラクションを管理するためのものです。
+
+## 前提
+
+- この `v5` は、Cursor Agent に最適化されたカスタムインストラクションです
+- Cursor Agent が自走（人の介入を受けずに自律処理）ができる前提として、Auto-Run の設定が適切に行われている必要があります。
+- 最新の更新内容については [更新履歴](https://github.com/kinopeee/cursorrules/blob/main/CHANGELOG.md) を参照してください。
+
+## 概要
+
+- Cursor のエージェント機能がリリースされてから、様々なパターンの処理を通して感じたのが「分析力の不足」でした。そのため、モデル（当時のClaude 3.5 Sonnet）が本来持っている分析能力を引き出せるように工夫し始めたのが、私のカスタムインストラクション作成の始まりです。
+- 当初のテーマは、分析能力向上と自走力を高めることがでしたが、その後、モジュールやリソースの重複生成、意図せぬ、AIによるデザインの変更、エラー処理の無限ループなどの防止にも取り組み、モデルの刷新と性能向上と相まって、それなりの成果を残せたように思います。
+	1. チェックリスト式の実装計画を立ててから着手。実行後はチェックリストごとに完了を確認することで、より計画性の高いタスク遂行が可能になっています。
+	2. タスクを軽量・標準・重要の3段階に分類し、軽量タスクでは1〜2文の簡潔な報告にとどめ、重いタスクほど手順と検証を厚くするようになっています。
+	3. 並行処理できるタスクは並行処理を行うことで、処理速度が向上します。
+- さらに、 `/` から始まる入力をコマンドとして扱うスラッシュコマンド規約（コマンドファイルをAIが編集しない、明示的に指定された引数のみを渡す、など）を定義し、Cursor Agent がローカルコマンドを安全に実行できるようにしています。
+- `v5` は、初期にAnthropic Prompt Generatorで作成、それ以降、その時期の最新モデルによる評価、実践による改善を繰り返してきました。カスタマイズの際も、お使いになるAIによる評価を行うことを推奨します。
+- 詳細な更新内容（タスク分類、エラー処理の段階化、スラッシュコマンド規約など）については [CHANGELOG.md](https://github.com/kinopeee/cursorrules/blob/main/CHANGELOG.md) を参照してください。
+
+## 使用方法
+
+1. `.cursor/rules` がまだ存在しない場合は、フォルダを作成してください。
+2. パスが存在する場合は、そこに `v5.en.mdc` （英語）または `v5.mdc` （日本語）を保存してください。
+3. テスト方針ルールを有効にしたい場合は、同じフォルダに `test-strategy.mdc` （日本語）または `test-strategy.en.mdc` （英語）を保存してください。
+- これらのテスト方針ルールの適用条件はデフォルトで「always」となっているため、所定のパスに存在していれば、それ以降のチャットで自動的に参照されます。
+- 日本語版・英語版の両方で `alwaysApply: true` が設定されているため、利用したい言語やテストルールをデフォルトで有効にするかどうかに応じて、この設定を調整してください。
+- これらを有効にすると、テストコードの実装・修正タスクでは、本リポジトリで定義した等価分割・境界値分析やカバレッジ要件などのテスト方針ルールが自動的に適用されます。
+
+## 翻訳ガイド
+
+カスタムインストラクションを他言語へ翻訳する際の推奨プロンプトについては、 [TRANSLATION\_GUIDE.md](https://github.com/kinopeee/cursorrules/blob/main/TRANSLATION_GUIDE.md) を参照してください。
+
+## 注意事項
+
+- User Rules、Memories に v5 と矛盾する指示が存在すると、モデルが混乱して、効果が減少します。それぞれの内容を十分にご確認ください。
+
+## ライセンス
+
+MITライセンスの下で公開されています。詳細については [LICENSE](https://github.com/kinopeee/cursorrules/blob/main/LICENSE) ファイルを参照してください。
+
+## サポート
+
+- このリポジトリのサポートはありませんが、フィードバックは歓迎いたします。また、Cursor関連情報をX（Twitter）で発信しているので、ご興味あればご覧ください。 [X（Twitter）](https://x.com/kinopee_ai)
+
+## Releases 5
+
+[\+ 4 releases](https://github.com/kinopeee/cursorrules/releases)
+
+## Packages
+
+No packages published

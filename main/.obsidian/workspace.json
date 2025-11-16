@@ -11,10 +11,10 @@
             "id": "944fb9becb120ade",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -167,22 +167,41 @@
   },
   "active": "944fb9becb120ade",
   "lastOpenFiles": [
-    "無題のファイル 1.base",
+    "11_clip_done/「LLMはコンテキストがすべて」かもしれない.md",
+    "10_clip/2025年版 エンジニアのためのAI連携チートシート + カスタムスクリプト集.md",
+    "20_ai_summary/LLMContextFocus.md",
+    "11_clip_done/x0y0pxFreeFont.md",
+    "20_ai_summary/PixelFontUpdates.md",
+    "11_clip_done/pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる.md",
+    "20_ai_summary/PythonUnderscore.md",
+    "11_clip_done/kinopeeecursorrules.md",
+    "20_ai_summary/CursorRulesDigest.md",
+    "11_clip_done/LoRAの進化：基礎から最新のLoRA-Proまで.md",
+    "20_ai_summary/LoRAEvolutionNotes.md",
+    "11_clip_done/Google NotebookLM  Note Taking & Research Assistant Powered by AI.md",
+    "20_ai_summary/NotebookLMGuide.md",
+    "11_clip_done/Context Engineering.md",
+    "20_ai_summary/ContextOpsPatterns.md",
+    "11_clip_done/AWSを利用する上で知っておきたい名前解決のはなし（10分版）.md",
+    "20_ai_summary/AWSNameResolveTips.md",
+    "11_clip_done/AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）.md",
+    "20_ai_summary/PythonAIEssentials.md",
+    "11_clip_done/2025年版 サーバーレス Web アプリケーションの作り方.md",
+    "20_ai_summary/ServerlessWebGuide.md",
+    "11_clip_done/2025年版 エンジニアのためのAI連携チートシート + カスタムスクリプト集.md",
+    "20_ai_summary/AIWorkflowCheats.md",
+    "10_clip/kinopeeecursorrules.md",
+    "10_clip/AWSを利用する上で知っておきたい名前解決のはなし（10分版）.md",
+    "10_clip/AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）.md",
     "無題のファイル.base",
-    "20_ai_summary/CodeWiki自動化.md",
-    "20_ai_summary/Clip保存設定.md",
-    "11_clip_done/Obsidian Web Clipperの保管先フォルダの設定の初歩でつまづいた件について｜あーしだよ！.md",
-    "11_clip_done/ドキュメントを手作業で保守する時代は終わり ～Google、「Code Wiki」を公開プレビュー／公開リポジトリのドキュメントを継続的に自動生成、「Gemini CLI」拡張機能も開発中.md",
-    "10_clip/ドキュメントを手作業で保守する時代は終わり ～Google、「Code Wiki」を公開プレビュー／公開リポジトリのドキュメントを継続的に自動生成、「Gemini CLI」拡張機能も開発中.md",
-    "10_clip/Obsidian Web Clipperの保管先フォルダの設定の初歩でつまづいた件について｜あーしだよ！.md",
+    "top.base",
+    "無題のファイル 1.base",
     "11_clip_done",
     "Users/setch/Documents/obsidian/main/10_clip",
     "Users/setch/Documents/obsidian/main",
     "Users/setch/Documents/obsidian",
     "Users/setch/Documents",
     "Users/setch",
-    "Users",
-    "20_ai_summary",
-    "Welcome.md"
+    "Users"
   ]
 }
