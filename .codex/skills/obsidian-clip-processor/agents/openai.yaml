@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Clip Processor"
+  short_description: "Summarize and archive Obsidian web clips."
+  default_prompt: "Use $obsidian-clip-processor to process new Obsidian clips into summaries and archive the raw notes."
